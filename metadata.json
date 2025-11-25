@@ -1,0 +1,5 @@
+{
+  "name": "AzureGen",
+  "description": "A specialized construction management platform powered by Gemini AI, featuring budget estimation (SEINFRA/Fortaleza), cost optimization, and intelligent schedule replanning.",
+  "requestFramePermissions": []
+}
